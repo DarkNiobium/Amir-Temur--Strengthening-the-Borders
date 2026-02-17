@@ -1,0 +1,14 @@
+@import "tailwindcss";
+@config "../tailwind.config.js";
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  background-color: #F5E6D3; /* Parchment base */
+  color: #1a237e; /* Ink blue/black */
+  font-family: 'Inter', system-ui, sans-serif;
+}
+
+#root {
+  min-height: 100vh;
+}
