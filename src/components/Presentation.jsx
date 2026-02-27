@@ -17,7 +17,7 @@ const slides = [
     id: 2,
     speaker: 'Abubakr',
     title: 'To‘xtamishxonning taxtga chiqishi va xiyonati',
-    content: "Temur dastlab Oltin O‘rdadagi siyosiy kurashlarga aralashib, To‘xtamishxonni qo‘llab-quvvatladi. Ammo vaqt o‘tishi bilan To‘xtamishxon kuchayib, Temurga bo‘ysunishni istamadi va Movarounnahrga hujum qilib xiyonat qildi. Temur davlat xavfsizligini ta’minlash uchun unga qarshi yurishlar boshladi.",
+    content: "Amir Temur uhcun eng kuchli xavf  Oq O'rda va Oltin o'rda edi,XIV asr 70 yillarida Oq O'rda hokimlaridan biri Orusxon Jochi ulusini birlashtirib uni kuchayishga harakat qildi.Shu bois Temur kuchsizlantirishni jiddiy harakat boshladi.1376-yilda To'xtamishxon Amir Temurdan yordam so'radi,ammo berilgan yordam tezda unitildi va 1385-yilda Ozarbayjon egallashga harakat qildi.",
     highlight: 'Oltin O\'rda',
     icon: 'ShieldAlert',
     image: 'https://342031.selcdn.ru/rusplt/54/108/TohtamyshTamerlan.jpg'
